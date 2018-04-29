@@ -1,0 +1,32 @@
+CACHE MANIFEST
+
+#e1aa02a30b8d48fc846fbaf6991077ca version 1447548879590
+
+CACHE:
+
+resources/audio/background.mp3
+resources/audio/win.mp3
+resources/audio/effects/bottle4.mp3
+resources/audio/effects/lose.mp3
+resources/audio/effects/bottle5.mp3
+resources/audio/effects/bottle3.mp3
+resources/audio/effects/bottle1.mp3
+resources/audio/effects/bottle2.mp3
+spritesheets/resources-images0.png
+spritesheets/resources-images-avatarKiwiAce0.png
+spritesheets/resources-images-level0.png
+spritesheets/resources-images-level1.png
+spritesheets/resources-images-level2.png
+spritesheets/resources-images-level3.png
+spritesheets/resources-images-level4.png
+spritesheets/resources-images-numbers0.png
+spritesheets/resources-images-menu0.png
+spritesheets/resources-images-enemies0.png
+game.html
+index.html
+browser-desktop.js
+
+FALLBACK:
+
+NETWORK:
+*

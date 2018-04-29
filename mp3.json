@@ -1,0 +1,320 @@
+{
+  "path": "albums",
+  "name": "albums",
+  "type": "folder",
+  "children": [
+    {
+      "path": "albums/center",
+      "name": "center",
+      "type": "folder",
+      "children": [
+        {
+          "path": "albums/center/01_Wicked_call.mp3",
+          "name": "Wicked call",
+          "type": "file"
+        },
+        {
+          "path": "albums/center/02_About_it.mp3",
+          "name": "About it",
+          "type": "file"
+        },
+        {
+          "path": "albums/center/03_I_used_to_live_good_but_now_im_dead.mp3",
+          "name": "I used to live good but now im dead",
+          "type": "file"
+        },
+        {
+          "path": "albums/center/04_Visit.mp3",
+          "name": "Visit",
+          "type": "file"
+        },
+        {
+          "path": "albums/center/05_the_new_song.mp3",
+          "name": "the new song",
+          "type": "file"
+        },
+        {
+          "path": "albums/center/06_Brundle.mp3",
+          "name": "Brundle",
+          "type": "file"
+        },
+        {
+          "path": "albums/center/07_Lost.mp3",
+          "name": "Lost",
+          "type": "file"
+        },
+        {
+          "path": "albums/center/08_Never.mp3",
+          "name": "Never",
+          "type": "file"
+        },
+        {
+          "path": "albums/center/09_When_you_die.mp3",
+          "name": "When you die",
+          "type": "file"
+        },
+        {
+          "path": "albums/center/10_With_you.mp3",
+          "name": "With you",
+          "type": "file"
+        },
+        {
+          "path": "albums/center/11_Much_sex.mp3",
+          "name": "Much sex",
+          "type": "file"
+        },
+        {
+          "path": "albums/center/12_Not_prepared.mp3",
+          "name": "Not prepared",
+          "type": "file"
+        },
+        {
+          "path": "albums/center/13_Nugget.mp3",
+          "name": "Nugget",
+          "type": "file"
+        },
+        {
+          "path": "albums/center/14_I_know.mp3",
+          "name": "I know",
+          "type": "file"
+        },
+        {
+          "path": "albums/center/15_Bonus_x.mp3",
+          "name": "Bonus x",
+          "type": "file"
+        }
+      ]
+    },
+    {
+      "path": "albums/n3",
+      "name": "N3",
+      "type": "folder",
+      "children": [
+        {
+          "path": "albums/n3/01_The_answer_to_your_sins.mp3",
+          "name": "The_answer to your sins",
+          "type": "file"
+        },
+        {
+          "path": "albums/n3/02_Anticultura.mp3",
+          "name": "Anticultura",
+          "type": "file"
+        },
+        {
+          "path": "albums/n3/03_Autopilot.mp3",
+          "name": "Autopilot",
+          "type": "file"
+        },
+        {
+          "path": "albums/n3/04_Backup.mp3",
+          "name": "Backup",
+          "type": "file"
+        },
+        {
+          "path": "albums/n3/05_Blinds.mp3",
+          "name": "Blinds",
+          "type": "file"
+        },
+        {
+          "path": "albums/n3/06_Clouds.mp3",
+          "name": "Clouds",
+          "type": "file"
+        },
+        {
+          "path": "albums/n3/07_Chapter.mp3",
+          "name": "Chapter",
+          "type": "file"
+        },
+        {
+          "path": "albums/n3/08_Dirty_hands.mp3",
+          "name": "Dirty hands",
+          "type": "file"
+        },
+        {
+          "path": "albums/n3/09_Low_batt.mp3",
+          "name": "Low batt",
+          "type": "file"
+        },
+        {
+          "path": "albums/n3/10_Now_way.mp3",
+          "name": "Now way",
+          "type": "file"
+        },
+        {
+          "path": "albums/n3/11_Right_now.mp3",
+          "name": "Right now",
+          "type": "file"
+        },
+        {
+          "path": "albums/n3/12_Shadow.mp3",
+          "name": "Shadow",
+          "type": "file"
+        },
+        {
+          "path": "albums/n3/13_Sounds.mp3",
+          "name": "Sounds",
+          "type": "file"
+        },
+        {
+          "path": "albums/n3/14_Worse_than_worst.mp3",
+          "name": "Worse than worst ",
+          "type": "file"
+        }
+      ]
+    },
+    {
+      "path": "albums/nuevos",
+      "name": "nuevos",
+      "type": "folder",
+      "children": [
+        {
+          "path": "albums/nuevos/01_Salida_al_mar.mp3",
+          "name": "Salida al mar",
+          "type": "file"
+        },
+        {
+          "path": "albums/nuevos/02_Nuevos.mp3",
+          "name": "Nuevos",
+          "type": "file"
+        },
+        {
+          "path": "albums/nuevos/03_Ahora_ves.mp3",
+          "name": "Ahora ves",
+          "type": "file"
+        },
+        {
+          "path": "albums/nuevos/04_Pegamento_universal.mp3",
+          "name": "Pegamento universal",
+          "type": "file"
+        },
+        {
+          "path": "albums/nuevos/05_Ciudad_de_flores.mp3",
+          "name": "Ciudad de flores",
+          "type": "file"
+        },
+        {
+          "path": "albums/nuevos/06_Entrar_y_salir.mp3",
+          "name": "Entrar y salir",
+          "type": "file"
+        },
+        {
+          "path": "albums/nuevos/07_Siempre_esta.mp3",
+          "name": "Siempre esta",
+          "type": "file"
+        }
+      ]
+    },
+    {
+      "path": "albums/sketch",
+      "name": "sketch",
+      "type": "folder",
+      "children": [
+        {
+          "path": "albums/sketch/01_2062.mp3",
+          "name": "2062",
+          "type": "file"
+        },
+        {
+          "path": "albums/sketch/02_Just_that.mp3",
+          "name": "Just that",
+          "type": "file"
+        },
+        {
+          "path": "albums/sketch/03_Friendly_kidnapping.mp3",
+          "name": "Friendly kidnapping",
+          "type": "file"
+        },
+        {
+          "path": "albums/sketch/04_Inspiration_zero.mp3",
+          "name": "Inspiration zero",
+          "type": "file"
+        },
+        {
+          "path": "albums/sketch/05_Worst.mp3",
+          "name": "Worst",
+          "type": "file"
+        },
+        {
+          "path": "albums/sketch/06_Troublesome.mp3",
+          "name": "Troublesome",
+          "type": "file"
+        },
+        {
+          "path": "albums/sketch/07_Lets_sing_this_song.mp3",
+          "name": "Lets sing this song",
+          "type": "file"
+        },
+        {
+          "path": "albums/sketch/08_Days_and_hours.mp3",
+          "name": "Days and hours",
+          "type": "file"
+        },
+        {
+          "path": "albums/sketch/09_Terror.mp3",
+          "name": "Terror",
+          "type": "file"
+        },
+        {
+          "path": "albums/sketch/10_End.mp3",
+          "name": "End",
+          "type": "file"
+        },
+        {
+          "path": "albums/sketch/11_Freedom_of_speech.mp3",
+          "name": "Freedom of speech",
+          "type": "file"
+        },
+        {
+          "path": "albums/sketch/12_Love_and_all_that_stuff.mp3",
+          "name": "Love and all that stuff",
+          "type": "file"
+        },
+        {
+          "path": "albums/sketch/13_Not_alone.mp3",
+          "name": "Not alone",
+          "type": "file"
+        },
+        {
+          "path": "albums/sketch/14_Punk_x.mp3",
+          "name": "Punk x",
+          "type": "file"
+        },
+        {
+          "path": "albums/sketch/15_Human_nature.mp3",
+          "name": "Human nature",
+          "type": "file"
+        },
+        {
+          "path": "albums/sketch/16_But_you.mp3",
+          "name": "But you",
+          "type": "file"
+        },
+        {
+          "path": "albums/sketch/17_Your_packet.mp3",
+          "name": "Your packet",
+          "type": "file"
+        },
+        {
+          "path": "albums/sketch/18_Love_me.mp3",
+          "name": "Love me",
+          "type": "file"
+        },
+        {
+          "path": "albums/sketch/19_One_lie.mp3",
+          "name": "One lie",
+          "type": "file"
+        },
+        {
+          "path": "albums/sketch/20_Get_out!.mp3",
+          "name": "Get_out!",
+          "type": "file"
+        },
+        {
+          "path": "albums/sketch/21_What!.mp3",
+          "name": "What!",
+          "type": "file"
+        }
+      ]
+    }
+  ]
+}
